@@ -171,8 +171,8 @@ External potentials and measurements are also utilized when running "SimulationM
 
 ## Authors
 
-* **Steven Smith**
 * **Jasper Taylor**
+* **Steven Smith**
 * **Anthony Gasbarro** 
 
 ## License
